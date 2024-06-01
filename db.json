@@ -1,0 +1,40 @@
+{
+    "product": [
+        {
+            "id": "1",
+            "name": "Darth Vader",
+            "price": "40",
+            "image": "https://cdn2.spider.cl/29525-large_default/funko-pop-star-wars-una-nueva-esperanza-darth-vader.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Superman",
+            "price": "25",
+            "image": "https://www.distritomax.com/cdn/shop/products/2bf187c46048d20dc63e409fa4a33ea9_1000x1000.png?v=1613360533"
+        },
+        {
+            "id": "3",
+            "name": "Flash",
+            "price": "20",
+            "image": "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dw3c8f5c2e/images/funko/66617-1.png"
+        },
+        {
+            "id": "4",
+            "name": "R2D2",
+            "price": "30",
+            "image": "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dw250ca92a/images/funko/upload/71635_StarWars_R2D2_POPSFX_GLAM-WEB.png"
+        },
+        {
+            "id": "5",
+            "name": "Superwoman",
+            "price": "35",
+            "image": "https://funko.com/on/demandware.static/-/Sites-funko-master-catalog/default/dw0f90f666/images/funko/55008-1.png"
+        },
+        {
+            "id": "6",
+            "name": "Batman",
+            "price": "30",
+            "image": "https://toyslandchile.cl/wp-content/uploads/2024/01/BATMAN-1342-1.png"            
+        }
+    ]
+}
